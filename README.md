@@ -1,13 +1,13 @@
 # Web Dev Projects
 
-Welcome to my Web Development Projects repository! This repository contains various web development projects that showcase my skills and creativity. Each project is unique and demonstrates different aspects of web development, from design to functionality.
+Welcome to my Web Development Projects repository! This repository contains various web development projects that showcase my skills and creativity. Each project is unique and demonstrates different aspects of web development, from design to functionality.Most are from FreeCampCode! Cheerss!
 
 ## Projects
 
 ### 1. Cafe Menu
 A simple and elegant cafe menu page that lists various coffee and dessert items. The page is styled with CSS to create a visually appealing menu.
 
-![Cafe Menu](path/to/cafe-menu-image.png)
+![Cafe Menu](C:\Users\Anjali\OneDrive\Pictures\Screenshots\Screenshot 2025-01-06 010542.png)
 
 - **Technologies Used:** HTML, CSS
 - **Files:** [index.html](Cafe%20Menu/index.html), [styles.css](Cafe%20Menu/styles.css)
