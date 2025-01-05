@@ -7,7 +7,7 @@ Welcome to my Web Development Projects repository! This repository contains vari
 ### 1. Cafe Menu
 A simple and elegant cafe menu page that lists various coffee and dessert items. The page is styled with CSS to create a visually appealing menu.
 
-![Cafe Menu](C:\Users\Anjali\OneDrive\Pictures\Screenshots\Screenshot 2025-01-06 010542.png)
+![Cafe Menu](./Images/Screenshot%202025-01-06%20010542.png)
 
 - **Technologies Used:** HTML, CSS
 - **Files:** [index.html](Cafe%20Menu/index.html), [styles.css](Cafe%20Menu/styles.css)
@@ -31,7 +31,7 @@ A portfolio website template that showcases projects, skills, interests, and con
 ### 4. Single-Page CV
 A single-page CV template that includes personal information, skills, education, and experience. The layout is clean and easy to read.
 
-![Single-Page CV](path/to/single-page-cv-image.png)
+![Single-Page CV](./Images/Screenshot%202025-01-06%20011323.png)
 
 - **Technologies Used:** HTML, CSS
 - **Files:** [index.html](Single-Page%20CV/index.html)
