@@ -39,10 +39,18 @@ A single-page CV template that includes personal information, skills, education,
 ### 5. Rothko Painting
 A creative project that mimics a Rothko painting using CSS. The painting consists of colored rectangles with various effects.
 
-![Rothko Painting](path/to/rothko-painting-image.png)
+![Rothko Painting](./Images/Rothko%20Painting.png)
 
 - **Technologies Used:** HTML, CSS
 - **Files:** [index.html](Rothko%20Painting/index.html), [styles.css](Rothko%20Painting/styles.css)
+
+### 6. Photo Gallery
+A Project based on Flex box, to make a responsive photo gallery whichchanges based on each screen size.
+
+![Photo Gallery](./Images/cat%20photo%20gallery.png.png)
+
+- **Technologies Used:** HTML, CSS, Bootstrap
+- **Files:** [index.html](./Photo%20Gallery/index.html), [styles.css](./Photo%20Gallery/styles.css)
 
 ### 6. Portfolio
 A Bootstrap-based portfolio website that includes a hero section, custom cards, and feature sections. The design is responsive and professional.
@@ -51,6 +59,7 @@ A Bootstrap-based portfolio website that includes a hero section, custom cards, 
 
 - **Technologies Used:** HTML, CSS, Bootstrap
 - **Files:** [index.html](portfolio/index.html), [styles.css](portfolio/styles.css)
+
 
 ## How to Use
 
