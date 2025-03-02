@@ -2,9 +2,144 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: gilroy;
 }
 html, body{
     height:100%;
     width:100%;
+}
+
+#main{
+    width:100%;
+    height:100%;
+    background-color: #fff;
+}
+
+#nav{
+    height:100px;
+    width:100%;
+    background-color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+#nav-item1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:5px;
+    margin-left: 20px;
+}
+
+#nav h3{
+    border: 1.5px solid black;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#nav i{
+    border: 1.5px solid black;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#nav h1{
+    font-weight: 500;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+#nav button{
+    border: 1.5px solid black;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: white;
+    cursor: pointer;
+}
+
+#nav #btn2{
+    background-color: orangered;
+    color:#fff;
+}
+
+#main>h1{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size: 150px;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img{
+   height:400px;
+   width:350px;
+   object-fit: cover;
+   position: absolute;
+   top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);   
+    border-radius: 20px;
+}
+
+#img1{
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+
+#img2{
+    transform: translate(-50%, -50%) rotate(-20deg);
+}
+
+#img3{
+    transform: translate(-50%, -50%) rotate(-10deg);
+}
+
+#btm-left{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    margin: 20px;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+#footer-icon{
+    display:flex;
+    gap: 20px;
+    margin: 20px;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#footer-icon i{
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+}
+
+#footer-icon i:hover{
+    color: orangered;
+}
+
+#footer-icon p{
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
 }
 
