@@ -5,7 +5,14 @@ Welcome to my Web Development Projects repository! This repository contains vari
 ## Projects
 
 I designed a very simple and clean landing Herpage : DannyGa
-![langing page](./Images/dannyGa.png)
+
+![landing page](./Images/dannyGa.png)
+
+
+Tried to recreate the webpage design of Larasonic
+
+![Hero Page](./Images/Larasonic.png)
+
 
 ### 1. Cafe Menu
 A simple and elegant cafe menu page that lists various coffee and dessert items. The page is styled with CSS to create a visually appealing menu.
