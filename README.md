@@ -13,6 +13,14 @@ Tried to recreate the webpage design of Larasonic
 
 ![Hero Page](./Images/Larasonic.png)
 
+<p align="left">
+  <a href='/CSS Project/project_heropage/'>
+    <img width="48%" src="./Images/dannyGa.png" alt="DannyGa" />
+  </a>
+  <a href='/Frontend Projects/12-restricted-textarea/'>
+    <img width="48%" src="./Images/Larasonic.png" alt="Larasonic" />
+  </a>
+</p>
 
 ### 1. Cafe Menu
 A simple and elegant cafe menu page that lists various coffee and dessert items. The page is styled with CSS to create a visually appealing menu.
