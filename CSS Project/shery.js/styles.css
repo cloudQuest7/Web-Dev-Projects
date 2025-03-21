@@ -92,11 +92,19 @@ html,body{
 }
 
 #heroleft .elem{
+    position: relative;
     height: 9vw;
     overflow: hidden;
 }
 
+#heroleft .elem h1:nth-child(1){
+    top:0;
+}
+
 #heroleft .elem h1{
+    top: 100%;
+    left: 0;
+    position: absolute;
     line-height: .9;
     font-family: "kajiro";
     color: #fff;
