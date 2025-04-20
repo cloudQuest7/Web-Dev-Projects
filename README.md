@@ -8,7 +8,7 @@ I designed a very simple and clean landing Herpage : DannyGa
 
 ![landing page](./Images/dannyGa.png)
  
-
+ 
 Tried to recreate the webpage design of Larasonic 
 
 ![Hero Page](./Images/Larasonic.png)
