@@ -7,7 +7,7 @@ Welcome to my Web Development Projects repository! This repository contains vari
 I designed a very simple and clean landing Herpage : DannyGa
 
 ![landing page](./Images/dannyGa.png)
-
+ 
 
 Tried to recreate the webpage design of Larasonic
 
