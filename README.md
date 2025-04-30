@@ -4,7 +4,7 @@ Welcome to my Web Development Projects repository! This repository contains vari
 
 ## Projects
 
-I designed a very simple and clean landing Herpage : DannyGa
+I designed a very simple and clean landing Herpage : DannyGa 
 
 ![landing page](./Images/dannyGa.png)
  
