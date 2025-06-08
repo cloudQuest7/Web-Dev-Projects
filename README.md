@@ -1,6 +1,8 @@
 # Web Dev Projects
 
 Welcome to my Web Development Projects repository! This repository contains various web development projects that showcase my skills and creativity. Each project is unique and demonstrates different aspects of web development, from design to functionality.Most are from FreeCampCode! Cheerss!
+Co-authored-by: asperier-K9 <kingstonaura97@gmail.com>
+
 
 ## Projects
  
