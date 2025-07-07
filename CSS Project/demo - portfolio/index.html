@@ -3,97 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anjali Jayakumar | Portfolio</title>
+    <title>Anjali Jayakumar | Indie Game Dev Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header class="navbar">
-        <nav>
-            <ul>
-                <li><a href="#hero">Home</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#interests">Interests</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+        <div class="navbar-container">
+            <div class="navbar-logo">
+                <img src="https://api.dicebear.com/7.x/icons/svg?seed=gamepad" alt="Logo" class="logo-img" style="width:40px;height:40px;">
+                <span class="logo-text">AnjaliDev</span>
+            </div>
+            <nav>
+                <ul class="navbar-links">
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#interests">Interests</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
-    
+
     <!-- Hero Section -->
     <section class="hero" id="hero">
         <div class="hero-content">
+            <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=Anjali" alt="Pixel Avatar" class="pixel-avatar" style="width:120px;height:120px;margin-bottom:20px;">
             <h1>Anjali Jayakumar</h1>
-            <p>Game Developer | Web Developer</p>
-            <p>Welcome to my world where creativity and code unite. I create immersive games and interactive web experiences, pushing the limits of technology.</p>
-            <a href="#projects" class="btn">Enter the Dev Universe</a>
+            <p class="tagline">Indie Game Developer | Web Adventurer</p>
+            <p>Welcome to my portfolio! Embark on a journey through my creative quests and digital worlds.</p>
+            <a href="#projects" class="btn">Start Adventure</a>
         </div>
+        <div class="hero-bg-anim"></div>
     </section>
 
     <!-- Projects Section -->
     <section class="projects" id="projects">
-        <h2>Projects Showcase</h2>
+        <h2>Indie Game Projects</h2>
         <div class="project-grid">
             <div class="project-card">
-                <h3>Project 1</h3>
-                <p>A brief description of the project goes here.</p>
+                <img src="https://placehold.co/300x180/292D36/FFD700?text=Pixel+Game+1" alt="Game 1" class="project-img">
+                <h3>Pixel Quest</h3>
+                <p>Retro platformer where you collect coins and dodge pixelated monsters.</p>
+                <span class="project-tag">Platformer</span>
             </div>
             <div class="project-card">
-                <h3>Project 2</h3>
-                <p>A brief description of the project goes here.</p>
+                <img src="https://placehold.co/300x180/292D36/0D6EFD?text=Indie+Game+2" alt="Game 2" class="project-img">
+                <h3>Neon Runner</h3>
+                <p>Fast-paced endless runner with neon lights and synthwave soundtrack.</p>
+                <span class="project-tag">Endless Runner</span>
             </div>
             <div class="project-card">
-                <h3>Project 3</h3>
-                <p>A brief description of the project goes here.</p>
+                <img src="https://placehold.co/300x180/292D36/FF007F?text=Indie+Game+3" alt="Game 3" class="project-img">
+                <h3>Dungeon Crawler</h3>
+                <p>Explore randomly generated dungeons, defeat bosses, and collect loot.</p>
+                <span class="project-tag">Roguelike</span>
             </div>
         </div>
     </section>
 
     <!-- Skills Section -->
     <section class="skills" id="skills">
-        <h2>Skills Unlocked</h2>
+        <h2>Skill Tree</h2>
         <div class="skill-tree">
             <div class="core-skill">Core Skills</div>
-
             <div class="branch">
-                <div class="branch-header">Web Development</div>
+                <div class="branch-header">Game Dev</div>
+                <div class="skill-node" title="Unity">Unity</div>
+                <div class="skill-node" title="C#">C#</div>
+                <div class="skill-node" title="Pixel Art">Pixel Art</div>
+                <div class="skill-node" title="Game Design">Game Design</div>
+            </div>
+            <div class="branch">
+                <div class="branch-header">Web Dev</div>
                 <div class="skill-node" title="HTML5">HTML5</div>
                 <div class="skill-node" title="CSS3">CSS3</div>
                 <div class="skill-node" title="JavaScript">JavaScript</div>
                 <div class="skill-node" title="React">React</div>
-                <div class="skill-node" title="Node.js">Node.js</div>
-                <div class="skill-node" title="Webflow">Webflow</div>
-            </div>
-
-            <div class="branch">
-                <div class="branch-header">Game Development</div>
-                <div class="skill-node" title="C#">C#</div>
-                <div class="skill-node" title="Unity">Unity</div>
-                <div class="skill-node" title="Game Physics">Game Physics</div>
-                <div class="skill-node" title="Animation">Animation</div>
             </div>
         </div>
     </section>
 
     <!-- Interests Section -->
     <section class="interests" id="interests">
-        <h2>Interests</h2>
+        <h2>Collectibles & Interests</h2>
         <div class="interest-cards">
-            <div class="interest-card">Interest 1</div>
-            <div class="interest-card">Interest 2</div>
-            <div class="interest-card">Interest 3</div>
+            <div class="interest-card">🎮 Indie Games</div>
+            <div class="interest-card">🕹️ Retro Consoles</div>
+            <div class="interest-card">🌌 Sci-Fi Worlds</div>
         </div>
     </section>
 
     <!-- Contact Section -->
     <footer class="contact" id="contact">
-        <h2>Contact Me</h2>
-        <form>
-            <input type="text" placeholder="Your Name">
-            <input type="email" placeholder="Your Email">
-            <textarea placeholder="Your Message"></textarea>
-            <button type="submit">Send</button>
-        </form>
+        <div class="contact-card">
+            <h2>Contact Me</h2>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
     </footer>
 </body>
 </html>
