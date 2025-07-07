@@ -1,15 +1,17 @@
 # Web Dev Projects
 
 Welcome to my Web Development Projects repository! This repository contains various web development projects that showcase my skills and creativity. Each project is unique and demonstrates different aspects of web development, from design to functionality.Most are from FreeCampCode! Cheerss!
+Co-authored-by: asperier-K9 <kingstonaura97@gmail.com>
+
 
 ## Projects
-
-I designed a very simple and clean landing Herpage : DannyGa
+ 
+I designed a very simple and clean landing Herpage : DannyGa 
 
 ![landing page](./Images/dannyGa.png)
-
-
-Tried to recreate the webpage design of Larasonic
+ 
+ 
+Tried to recreate the webpage design of Larasonic   
 
 ![Hero Page](./Images/Larasonic.png)
 
